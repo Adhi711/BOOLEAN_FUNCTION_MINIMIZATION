@@ -37,11 +37,6 @@ Implementing Boolean functions in Verilog HDL (Hardware Description Language) in
 
 ![e2program](https://github.com/user-attachments/assets/2dd5252a-6d47-40d2-8c5a-a30180219dc0)
 
-
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
-
 # TRUTH TABLE :
 
 ![e2truthtable](https://github.com/user-attachments/assets/5fb38bd7-a70c-4e02-9ce6-31034104be2d)
