@@ -52,4 +52,4 @@ Implementing Boolean functions in Verilog HDL (Hardware Description Language) in
 
 # RESULT:
 
-Thus the given logic functions are implemented
+Thus the given logic functions are iimplemented and verified successfully
